@@ -1,5 +1,5 @@
 # FinanceExtraction
-Do you ever wondered if there is a way to exctract EVERY Stock Market Price, from past years to these days?
+Do you ever wonder if there is a way to exctract EVERY Stock Market Price, from past years to these days?
 
 # Short answer: Yes, you can!
 This code exctracts every stock market price from Yahoo Finance, creates a Linear Regression ML model to calculate predictions. <br>
