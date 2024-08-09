@@ -20,3 +20,6 @@ count = 1 <br>
 for symbol in all_tickers['Tickers']: <br>
     stock_data = yf.download(symbol, start=start_date, end=end_date) <br>
     stock_data['Stock'] = symbol <br>
+
+# All_Finance_Tickers file
+This is a file with every symbol of every stock market. The code will loop on it to get all the symbols. 
